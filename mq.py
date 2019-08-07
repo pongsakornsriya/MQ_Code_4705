@@ -19,7 +19,7 @@ class MQ():
                                             # normal operation
 
     ######################### Application Related Macros ######################
-      GAS_ALC                      = 0      # Gas_ALC macro declaration.
+    GAS_ALC                      = 0      # Gas_ALC macro declaration.
 
     def __init__(self, Ro=10, analogPin=0):  # come back to this
         self.Ro = Ro
